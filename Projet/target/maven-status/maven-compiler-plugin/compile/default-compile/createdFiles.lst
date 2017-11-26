@@ -1,0 +1,13 @@
+fr/GestionLoc/service/ServicesMoto.class
+fr/GestionLoc/service/ServicesClient.class
+fr/GestionLoc/service/ServicesVoiture.class
+fr/GestionLoc/service/ServicesVehicule.class
+fr/GestionLoc/model/Vehicule.class
+fr/GestionLoc/presentation/DonneesVehicule.class
+fr/GestionLoc/presentation/GestionLocation.class
+fr/GestionLoc/model/Location.class
+fr/GestionLoc/service/ServicesDB.class
+fr/GestionLoc/service/ServicesLocation.class
+fr/GestionLoc/model/Client.class
+fr/GestionLoc/model/Moto.class
+fr/GestionLoc/model/Voiture.class
